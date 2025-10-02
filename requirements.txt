@@ -1,9 +1,2 @@
-streamlit
-pandas
-langchain
-langchain-google-genai
-langchain_experimental
-google-generativeai
-matplotlib
-seaborn
-tabulate
+
+
