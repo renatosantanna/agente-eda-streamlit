@@ -1,0 +1,10 @@
+# Arquivos de segredo e chaves de API
+.streamlit/secrets.toml
+.env
+
+# Pasta do ambiente virtual
+.venv/
+
+# Arquivos de cache do Python
+__pycache__/
+*.pyc
